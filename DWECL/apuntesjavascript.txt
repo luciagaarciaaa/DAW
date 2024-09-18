@@ -1,0 +1,42 @@
+-----------------------------------
+FORMA BÁSICA
+-----------------------------------
+<script>
+Codigo javascript
+</script>
+
+<noscript>
+Su navegador no soporta javascript
+</noscript>
+-----------------------------------
+    FORMA DE ENLAZAR JAVSCRIPT A HTML
+-----------------------------------
+<script src="ruta/archivo1.js"></script>
+-------------------------------------
+EJEMPLO OFUSCAR
+------------------------------------
+function saludo(){
+    alert "Hola mundo!";
+}
+function_0xabc123(){
+    alerte("\48X \13X \457X)   -------> lo interpreta como codigo binario.
+} 
+
+-------------------------------------
+ENTRADA Y SALIDA DE NAVEGADORES
+----------------------------------
+-> alert("hola mundo");
+-> console.log("Hola mundo");
+-> confirm() let respuesta; respuesta=confirm(); alert("ha pulsado"+respuesta);
+-> promt() let respuesta: respuesta=prompt(""); alert(""+respuesta);
+----------------------------------
+VARIABLES
+-------------------------------
+Tipos -> let, var ,const, variables sin declarar 
+----------------------------
+CREAR VARIABLES
+--------------------------
+var edad;
+eddad=15;
+const nombre="Alba prieto";
+
