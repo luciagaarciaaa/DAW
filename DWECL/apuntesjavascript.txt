@@ -22,6 +22,7 @@ function_0xabc123(){
     alerte("\48X \13X \457X)   -------> lo interpreta como codigo binario.
 } 
 
+
 -------------------------------------
 ENTRADA Y SALIDA DE NAVEGADORES
 ----------------------------------
@@ -29,6 +30,7 @@ ENTRADA Y SALIDA DE NAVEGADORES
 -> console.log("Hola mundo");
 -> confirm() let respuesta; respuesta=confirm(); alert("ha pulsado"+respuesta);
 -> promt() let respuesta: respuesta=prompt(""); alert(""+respuesta);
+
 ----------------------------------
 VARIABLES
 -------------------------------
@@ -40,3 +42,25 @@ var edad;
 eddad=15;
 const nombre="Alba prieto";
 
+-----------------
+USE STRICT
+----------------
+"use strict";
+pi=3.14; //DA ERROR
+
+
+----------------
+TIPOS DE DATOS
+------------------
+undefined
+boolean
+number 
+bigInt
+null
+object
+symbol
+function
+
+-----------------
+OPERADORES ARITMÉTICOS
+------------------------
