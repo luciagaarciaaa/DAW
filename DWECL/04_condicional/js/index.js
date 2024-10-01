@@ -1,17 +1,13 @@
-const numero = "123";
+const numero = 1;
 
-if (numero == 123){
-    console.log("Los numeros son iguales ==");
-
-}else{
-    console.log("Los numeros no son iguales ==");
-    
+if (numero == true){
+    console.log("Los números son iguales ==");
+} else {
+    console.log("Los números NO son iguales ==");
 }
 
-if (numero === 123){
-    console.log("Los numeros son iguales ===");
-    
-}else{
-    console.log("Los numeros no son iguales ===");
-    
+if (numero === true){
+    console.log("Los números son iguales ===");
+}else {
+    console.log("Los números NO son iguales ===");
 }

@@ -1,8 +1,4 @@
-console.log("hola consola!");
-alert("hola usuario");
-console.log(prompt("introduce un numero"));
+console.log("Hello Consola!");
+alert("Hello usuario!");
+console.log(prompt("Introduce un número",""));
 console.log(confirm("¿Deseas continuar?"));
-
-
-
-
