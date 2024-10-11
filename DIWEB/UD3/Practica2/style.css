@@ -21,3 +21,16 @@
     border-radius: 5px;
     text-align: center;
 }
+
+footer{
+    text-align: center;
+}
+#aside {
+    width: 100%; /* Tamaño del aside */
+    float: right; /* Coloca el aside a la derecha */
+    padding: 10px;
+    color: white;
+    background-color: #020002; /* Fondo para diferenciar */
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+    margin-left: 10px;
+}
