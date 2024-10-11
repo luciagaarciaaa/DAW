@@ -1,0 +1,23 @@
+.imagenes{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.imagenes img{
+    width: 48%;
+    height: auto;
+    border-radius: 5px;
+}
+.videos{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.videos video{
+    max-width: 100%;
+    width: 60%;
+    border-radius: 5px;
+    text-align: center;
+}
