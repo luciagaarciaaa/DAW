@@ -1,0 +1,21 @@
+.no-flexbox #flex-container {
+    display: block;
+}
+
+.no-flexbox .flex-item {
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+#flex-container {
+    display: flex;
+    gap: 10px;
+}
+
+.flex-item {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+}
