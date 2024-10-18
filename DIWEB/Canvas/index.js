@@ -25,7 +25,7 @@ window.addEventListener("DOMContentLoaded",function(){
         contexto.arc(75,75,15,0,Math.PI*2,false);
         contexto.fill();
 
-        //
+        //Prueba
         contexto.beginPath();
         contexto.arc(200,200,60,0,Math.PI,true);
         contexto.lineTo(200,400);
