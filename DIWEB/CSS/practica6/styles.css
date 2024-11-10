@@ -27,7 +27,7 @@ nav button {
     transition: background-color 0.3s;
 }
 nav button:hover {
-    background-color: #357ab7; /* Azul más oscuro al hacer hover */
+    background-color: #357ab7; 
 }
 
 main {
@@ -64,9 +64,9 @@ main {
 
 
 aside {
-    width: 35%;
+    width: 100%;
     display: inline-block; 
-    vertical-align: auto;
+   
     text-align: center;
     margin: 0;    
 }
