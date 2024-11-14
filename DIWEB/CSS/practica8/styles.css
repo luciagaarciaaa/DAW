@@ -79,3 +79,9 @@ body {
 .submenu li:hover > .submenu {
     display: flex;
 }
+
+nav ul li a:not(:last-child)::after{
+    content: "\25bc";
+    font-size: 9px;
+    padding-left: 6px;
+}
